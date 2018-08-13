@@ -31,9 +31,19 @@ header {
     border-style: solid;
 }
 
-img {
+.bio {
+    border-bottom-style: solid;
+    border-bottom-color: black;
+    color: teal;
+}
+
+.biopic {
     float: left;
     padding-right: 20px;
+}
+
+.imgLink {
+    padding: 50px;
 }
 
 p {
@@ -42,7 +52,7 @@ p {
 
 footer {
     background: grey;
-    position: absolute;
+    position: fixed;
     bottom: 0;
     width: 100%;
 }
