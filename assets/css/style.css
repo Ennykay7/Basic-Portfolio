@@ -1,0 +1,68 @@
+body {
+    background: lightblue;
+    margin: 0 auto;
+}
+
+header {
+    background: wheat;
+    border-bottom-style: solid;
+    border-bottom-color: black;
+    margin-bottom: 50px;
+}
+
+.top {
+    background: teal;
+    color: wheat;
+    width: 920px;
+    padding: 20px;
+    margin: 0 auto;
+}
+
+.menu {
+    float: right;
+    font-size: 15px;
+}
+
+.body {
+    width: 920px;
+    padding: 20px;
+    background: wheat;
+    margin: 0 auto;
+    border-style: solid;
+}
+
+.bio {
+    border-bottom-style: solid;
+    border-bottom-color: black;
+    color: teal;
+}
+
+.biopic {
+    float: left;
+    padding-right: 20px;
+}
+
+.imgLink {
+    padding: 50px;
+}
+
+p {
+    line-height: 30px;
+}
+
+footer {
+    background: grey;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.copyright {
+    text-align: center;
+    color: black;
+    margin: 0;
+    padding-bottom: 5px;
+    padding-top: 30px;
+    border-top-style: solid;
+    border-color: black;
+}
